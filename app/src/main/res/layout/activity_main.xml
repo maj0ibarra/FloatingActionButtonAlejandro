@@ -65,7 +65,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="?attr/actionModePasteDrawable"
-            fab:fab_label="Accion 3"
+            fab:fab_label="Accion 1"
             fab:fab_size="mini" />
     </com.github.clans.fab.FloatingActionMenu>
 </RelativeLayout>
