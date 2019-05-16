@@ -143,14 +143,21 @@ import android.view.View;
 
 import com.github.fafaldo.fabtoolbar.widget.FABToolbarLayout;
 
-public class ActividadPrincipal extends AppCompatActivity implements View.OnClickListener {
+public class ActividadPrincipal extends AppCompatActivity
 
-    private FABToolbarLayout morph;
+
+{
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+
+        /*
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
@@ -180,4 +187,4 @@ public class ActividadPrincipal extends AppCompatActivity implements View.OnClic
 
         morph.hide();
     }
-}
+}*/}}
